@@ -1,0 +1,18 @@
+{
+    "fonte_topo": "6",
+    "fonte_desc": "5.5",
+    "entrelinha": "1.1",
+    "espaco_topo_desc": "2.7",
+    "fonte_numeral": "30",
+    "largura_barras_cm": "2.7",
+    "altura_barras_mm": "2.8",
+    "distancia_numeral": "2.7",
+    "espaco_antes_bc": "0",
+    "pad_top": "0",
+    "pad_left": "-2",
+    "modelo_pimaco": "Pimaco A4251 (65 etq - 3.82 x 2.12 cm)",
+    "qtde_manual": "1",
+    "posicao_inicial": "1",
+    "tipo_codigo": "C\u00f3digo de Barras (Zebra)",
+    "incluir_bordas": 0
+}
